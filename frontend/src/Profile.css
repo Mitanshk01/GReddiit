@@ -1,0 +1,49 @@
+.fm {
+  text-align: left;
+  width: 600px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.lbl {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.txt {
+  padding: 12px 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.sub {
+  background-color: #34568b;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+  margin: 0 auto;
+  display: block;
+}
+
+.info {
+  width: 50%;
+  display: flex;
+  justify-content: start;
+}
+
+.drop-downs {
+  width: 50%;
+  display: flex;
+}
