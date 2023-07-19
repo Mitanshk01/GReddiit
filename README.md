@@ -42,7 +42,7 @@ This has been done using the setInterval method.
 
 # **_Specification 4 : My Sub Greddiits Page_**
 
-A button to create a new button has been given.
+A button to create a new SubGreddit has been given.
 
 Input validation has been done before form submission by turning the Submit button red.
 
